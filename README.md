@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [shashwatsingh14.vercel.app](shashwatsingh14.vercel.app)
+- 👨‍💻 All of my projects are available at [shashwatsingh14.vercel.app](www.shashwatsingh14.vercel.app)
 
 - 💬 Ask me about **React,Express,Node**
 
 - 📫 How to reach me **shashwat.singh@tothenew.com**
 
-- 📄 Know about my experiences [shashwatsingh14.vercel.app/resume](shashwatsingh14.vercel.app/resume)
+- 📄 Know about my experiences [shashwatsingh14.vercel.app/resume](www.shashwatsingh14.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
